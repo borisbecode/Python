@@ -25,3 +25,20 @@ d = 30
 print( c == d )
 print ( c != d)
 print(a<b)
+c += 5
+print(c)
+d -= 2
+print(d)
+
+name = "boris"
+name += " is a good mathematician"
+print(name)
+
+
+a = 10
+a *= 10
+print(a)
+
+text = "Alan Turing    "
+text *= 10
+print(text)
